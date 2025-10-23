@@ -1,4 +1,4 @@
-# The OSI Model
+# SOLID Principles
 
 [<- Back to Main Menu](../../README.md#1-core-skills)
 
