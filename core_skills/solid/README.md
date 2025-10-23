@@ -239,7 +239,9 @@ class ItemFactory
   end
 end
 ```
+
 With this, you can extend new class and item patterns without modifying the existing code.
+
 ---
 
 ### Liskov Substitution Principle (LSP)
